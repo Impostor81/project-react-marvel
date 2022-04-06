@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/project-react-marvel/static/css/main.329f0f3b.css",
-    "main.js": "/project-react-marvel/static/js/main.42f94754.js",
+    "main.js": "/project-react-marvel/static/js/main.610f1f7f.js",
     "static/media/vision.png": "/project-react-marvel/static/media/vision.067d4ae1936d64a577ce.png",
     "static/media/mjolnir.png": "/project-react-marvel/static/media/mjolnir.61f31e1809f12183a524.png",
     "static/media/Avengers.png": "/project-react-marvel/static/media/Avengers.4065c8f9c94e3d8b039a.png",
@@ -10,10 +10,10 @@
     "static/media/spinner-loading.svg": "/project-react-marvel/static/media/spinner-loading.138307fc5645e7177cb812dcb0456adb.svg",
     "index.html": "/project-react-marvel/index.html",
     "main.329f0f3b.css.map": "/project-react-marvel/static/css/main.329f0f3b.css.map",
-    "main.42f94754.js.map": "/project-react-marvel/static/js/main.42f94754.js.map"
+    "main.610f1f7f.js.map": "/project-react-marvel/static/js/main.610f1f7f.js.map"
   },
   "entrypoints": [
     "static/css/main.329f0f3b.css",
-    "static/js/main.42f94754.js"
+    "static/js/main.610f1f7f.js"
   ]
 }
