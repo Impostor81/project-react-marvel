@@ -5,7 +5,7 @@ import Page404 from '../pages/404';
 
 const App = () => {
   return (
-    <Router>
+    <Router basename = "/project-react-marvel">
       <div className='app'>
         <AppHeader />
         <main>
